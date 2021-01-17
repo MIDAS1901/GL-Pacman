@@ -8,8 +8,6 @@ Computer Graphics ACADEMIC PROJECT for Semester 3
 
 //Add the <windows.h> header file if you are operating on Windows
 
-//Github session
-
 #include <GL/glut.h>
 #include <iostream>
 #include <math.h>
