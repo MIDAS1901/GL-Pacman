@@ -25,3 +25,10 @@ Make sure that your OS has OpenGL installed. Navigate your terminal to the direc
   5. Use the Escape Key to exit the game.
   6. Use the Right Mouse Button to change Background Color, restart the game or exit the game.
   
+# Possible Updates
+  1. A choice for users to accomodate how many monsters they want when playing the game(i.e. Difficulty Levels).
+  2. More levels 
+  3. A leaderboard
+  
+  Please feel free to suggest improvements or rectifications I can make.
+  
