@@ -616,6 +616,13 @@ int main(int argc, char** argv){
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(750, 750);
 	glutInitWindowPosition(300, 50);
+	cout<<"/t/tINSTRUCTIONS"
+		<<" 1. To start the game, press the space key."
+    	<<" 2. To control Pac-Man use A to go left, D to go right, W to go up and S to go down."
+    	<<" 3. Your goal is to eat all the food and avoid the monsters."
+    	<<" 4.To restart the game at any point press the R key."
+    	<<" 5.Use the Escape Key to exit the game."
+    	<<" 6.Use the Right Mouse Button to change Background Color, restart the game or exit the game.";
 	glutCreateWindow("PAC-MAN - Created by Navneet Das And Chirag Kapil");
 	create_right_menu();
 	glutDisplayFunc(display);
