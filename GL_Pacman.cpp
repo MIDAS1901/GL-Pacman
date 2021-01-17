@@ -4,7 +4,9 @@
     1) NAVNEET DAS(3231 SE COMP-A)
     2) CHIRAG KAPIL(3213 SE COMP-A)
 */
-#include <windows.h>
+
+//Add the <windows.h> header file if you are operating on Windows
+
 #include <GL/glut.h>
 #include <iostream>
 #include <math.h>
