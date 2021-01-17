@@ -1,7 +1,8 @@
-/*Computer Graphics MINI PROJECT for Semester 3
-    PAC-MAN Game using OpenGL Library
+/*
+Computer Graphics ACADEMIC PROJECT for Semester 3
+    PAC-MAN Game using Open Graphics Library
     Submitted by:
-    1) NAVNEET DAS(3231 SE COMP-A)
+    1) NAVNEET DAS (3231 SE COMP-A)
     2) CHIRAG KAPIL(3213 SE COMP-A)
 */
 
